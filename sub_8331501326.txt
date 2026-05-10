@@ -1,6 +1,14 @@
-#profile-title: Подписка истекла
+#profile-title: Yulik VPN | Безлимит
 #profile-update-interval: 1
-
-# ❌ Доступ к серверам закрыт.
-# Для продления обратитесь к администратору: @xovomk
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none#НЕРАБОЧАЯ_ССЫЛКА
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastse.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastse.yaandexapi.site&fp=chrome&pbk=5TNwLc44BbXYkfIqeFowoU8Z3FAaYRu9WmzogY3R3g0&sid=11fa92bc&spx=%2F#🇸🇪 • Швеция — ⚡
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastge.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastge.yaandexapi.site&fp=chrome&pbk=XuKO9HEotV1FY6q1XMPrqv96v1nht9ADcWip68y_T18&sid=c8d6f1a2&spx=%2F#🇩🇪 • Германия — ⚡
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastfi.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastfi.yaandexapi.site&fp=chrome&pbk=5JfGq65YksB0I_wPbFud4BUasQSjofcCsR6yiCnwu0k&sid=c8d6f1a2&spx=%2F#🇫🇮 • Финляндия — ⚡
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@46.149.67.231:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastruyt.yaandexapi.site&fp=qq&pbk=9r92FMhyaU5KZkTgPa6LXx1ln5u06fqeYIiU0iIgo14&sid=4e8b2f1a9d3c7e6b&spx=%2F#🇷🇺 • Россия (➕ Youtube)
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastnl.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastnl.yaandexapi.site&fp=chrome&pbk=QObmzGTu7MU04IZmxtt44WTYjacttraGjOByz4x2ID4&sid=6ba86e93&spx=%2F#🇳🇱 • Нидерланды
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastpl.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastpl.yaandexapi.site&fp=chrome&pbk=GXu2xgp0bLTuTzUXmXD3db86rwX4jp5vyzoI2IlC8BA&sid=c8d6f1a2&spx=%2F#🇵🇱 • Польша
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@fastfr.yaandexapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastfr.yaandexapi.site&fp=chrome&pbk=bc95JNDAOhxtwjAmTKNbcJmfEdO-8WjFjSaUOCTeIz8&sid=a6e86e93&spx=%2F#🇫🇷 • Франция
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@84.201.135.211:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=VXk7pGjKfNOeQ0Y0qqptMXY_WErEQcVgKXO7QJjDWXY&sid=f1e4c3d28b3a1f2e&spx=%2F#🇸🇪 • Обход #1.0 ⚡ Универсал
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@84.201.162.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=Iw58KVv7Gp8_Ym7Ey_lBWyYoilxRm15Deu83KB_ZjHw&sid=9c7d2e4a6b1f3a8c&spx=%2F#🇳🇱 • Обход #1.2 ⚡ Универсал
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@158.160.160.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DCFJ4_NkzuoQcll-gM6vwUBfNTsLtQRRgbAaAkFBSWU&sid=9c7d2e4a6b1f3a8c&spx=%2F#🇳🇱 • Обход #2.0
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@158.160.119.96:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=6al3qBmuhvtj5UstGassQxOjEJ4MiEdOt5W3moM8BzE&sid=f1e4c3d28b3a1f2e&spx=%2F#🇳🇱 • Обход #2.1
+vless://8055d56b-fb41-428c-9278-a280c0c5aeb4@84.201.164.138:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=APWBAEc6Z_Y77KOrVr01m7C8GxffoY_-xWzCZGhE9gw&sid=4e8b2f1a9d3c7e6b&spx=%2F#🇷🇺 • Обход #3.0 (➕РУ-сервисы)
