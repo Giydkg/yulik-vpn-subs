@@ -1,5 +1,16 @@
-#profile-title: Yulik VPN
+#profile-title: Yulik VPN | Безлимит ♾️
 #profile-update-interval: 1
+#announce: 💜✧ ДОБРО ПОЖАЛОВАТЬ В YULIK VPN ✧💜
+╔══════════════════════════════════╗
+║  ✅ Подписка: АКТИВНА            ║
+║  📡 Серверов: 52 шт.             ║
+║  ⚡ Скорость: 25 Гбит/с          ║
+║  🌍 Обход блокировок             ║
+║  🛡️ Безлимитный трафик           ║
+╚══════════════════════════════════╝
+📲 Поддержка: @xovomk
+🔔 Для обновления нажмите «Обновить»
+
 vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-1
 vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-2
 vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-3
