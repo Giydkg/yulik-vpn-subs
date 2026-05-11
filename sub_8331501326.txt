@@ -1,57 +1,6 @@
-#profile-title: Yulik VPN | Безлимит ♾️
+#profile-title: Yulik VPN | Подписка истекла
 #profile-update-interval: 1
-#announce: 💜✧ ДОБРО ПОЖАЛОВАТЬ В YULIK VPN ✧💜
-╔══════════════════════════════════╗
-║  ✅ Подписка: АКТИВНА            ║
-║  📡 Серверов: 52 шт.             ║
-║  ⚡ Скорость: 25 Гбит/с          ║
-║  🌍 Обход блокировок             ║
-║  🛡️ Безлимитный трафик           ║
-╚══════════════════════════════════╝
-📲 Поддержка: @xovomk
-🔔 Для обновления нажмите «Обновить»
+#announce: ⚠️ Ваша подписка больше не активна.
+Для продления обратитесь к администратору: @xovomk
 
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-1
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-2
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-3
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-4
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru21.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-5
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru21.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-6
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru21.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-7
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru21.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-8
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru22.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-9
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru22.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=st.ozone.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-10
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru22.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-11
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru22.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-12
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@de25.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇩🇪 Germany-1
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@de39.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇩🇪 Germany-2
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@de41.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇩🇪 Germany-3
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@de42.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇩🇪 Germany-4
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@de44.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇩🇪 Germany-5
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@lv01.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇱🇻 Latvia-1
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@lv02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇱🇻 Latvia-2
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@lv03.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇱🇻 Latvia-3
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@nl06.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇳🇱 Netherlands-1
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@nl06.whost-solutions.ru:8443?encryption=none&security=reality&type=xhttp&path=/xhttp&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇳🇱 Netherlands-2
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@nl08.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇳🇱 Netherlands-3
-vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@nl08.whost-solutions.ru:8443?encryption=none&security=reality&type=xhttp&path=/xhttp&sni=nl05.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇳🇱 Netherlands-4
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ee1.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇪🇪 Estonia Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ee1.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇪🇪 Estonia gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@pl.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=3YLmvjBF6ZAO6nTSeOr1N3hyqSN03EfoM_LWS2IRvS8&spx=%2F#🇵🇱 Poland Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@pl.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=3YLmvjBF6ZAO6nTSeOr1N3hyqSN03EfoM_LWS2IRvS8&spx=%2F#🇵🇱 Poland gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru4.hopen.online:8443?encryption=none&security=reality&type=grpc&serviceName=max.ru&sni=max.ru&fp=qq&pbk=o76xl9p1BsnVO5EO8GtMr9EwZEZA_hu8uLv3AXMBqwE&spx=%2F#🇷🇺 Ru-4 gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru2.hopen.online:8443?encryption=none&security=reality&type=grpc&serviceName=google.com&sni=google.com&fp=qq&pbk=c2XUJnbdqLZho8kIvzmXmGOL8jGlzXttpFidIohzzQQ&spx=%2F#🇷🇺 Ru-2 gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru5.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=V7Ym3ndF1pG9C5ECzTDbxT5PXyu-i2mLuYfZ0L4_yy0&spx=%2F#🇷🇺 Ru-5 Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@tr.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇹🇷 Turkey Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@tr.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇹🇷 Turkey gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@fi2.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇫🇮 Finland Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@fi2.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇫🇮 Finland gRPC
-vless://2622b78c-a0ea-45e6-91e2-ae0e0c4780e8@77.110.106.62:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Yg2r8UnTmcYuxbjI84I0Pi4Vy1Eyvg7xlds7_6XMKgg&sid=add79d613138531f&spx=%2F#🇫🇷 France
-vless://c9012af6-de4c-4205-87f1-8d2e1cc00e78@188.127.247.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=l-I3kkM20KQRY0x0seETj_UrlBj8WZm9nPKsyJiYbzA&sid=ee929beeff641794&spx=%2F#🇨🇿 Czech
-vless://32c9e3b2-9b8a-4770-a548-f5907e693fdd@109.120.184.251:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=qbGACuGT5tPvitJGTjM8hqlXsKBKru6wtdBX5xx1TQ0&sid=b54d33c8c02ef40c&spx=%2F#🇫🇮 Finland IP
-vless://ab3ab0e6-06b7-4a21-889a-9d0efc179cb0@79.137.202.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=VRPQOJ_isGiTZoKcHjczIRfIkPxUgqLB0MYbLKTqIg8&sid=381e4990ce86e8f1&spx=%2F#🇩🇪 Germany IP
-vless://ce25be84-c851-4c2c-ab00-aa8dea48f35b@46.226.163.169:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=byZ30q1KqtFDmXQV61GEc_i1qQt5o9WJyWKHXNVFX0M&sid=c1ec6261db2ea066&spx=%2F#🇬🇧 UK
-vless://8282c6f9-c801-4e51-8570-bb71a3661876@159.194.196.121:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=bV0j1shigLSteeo_KwD01QYZ_Tlp9mxDdNwx3hDdDxY&sid=ace5d7a5f0e20d10&spx=%2F#🇷🇺 Russia IP
-vless://663a75d6-8a72-4ddc-94a8-ccae741a73a3@w888.t1n2.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh1.vk.com&fp=qq&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&sid=b527a9ba99a2dfd0&spx=%2F#🪧 Обход БС 1
-vless://663a75d6-8a72-4ddc-94a8-ccae741a73a3@w888res.t1n2.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh1.vk.com&fp=chrome&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&sid=b527a9ba99a2dfd0&spx=%2F#🪧 Обход БС 2
-vless://663a75d6-8a72-4ddc-94a8-ccae741a73a3@w888res1.t1n2.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh1.vk.com&fp=chrome&pbk=AjV7AGlaKqEutZu8gY9xrSFXMluAZwjflDidb3hRa38&sid=b527a9ba99a2dfd0&spx=%2F#🪧 Обход БС 3
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none#НЕРАБОЧАЯ_ССЫЛКА
