@@ -1,6 +1,3 @@
-#profile-title: Подписка истекла
+#profile-title: Yulik VPN | Безлимит
 #profile-update-interval: 1
-
-# ❌ Доступ к серверам закрыт.
-# Для продления обратитесь к администратору: @xovomk
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none#НЕРАБОЧАЯ_ССЫЛКА
+vless://0b969ebd-11fc-47cb-960b-dbd087fed5fc@ru02.whost-solutions.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru21.whost-solutions.ru&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&spx=%2F#🇷🇺 Russia-1
