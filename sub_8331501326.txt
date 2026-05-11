@@ -1,13 +1,6 @@
-#profile-title: Yulik VPN | Безлимит
+#profile-title: Подписка истекла
 #profile-update-interval: 1
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ee1.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇪🇪 Эстония Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ee1.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇪🇪 Эстония gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@pl.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=3YLmvjBF6ZAO6nTSeOr1N3hyqSN03EfoM_LWS2IRvS8&spx=%2F#🇵🇱 Польша Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@pl.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=3YLmvjBF6ZAO6nTSeOr1N3hyqSN03EfoM_LWS2IRvS8&spx=%2F#🇵🇱 Польша gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru4.hopen.online:8443?encryption=none&security=reality&type=grpc&serviceName=max.ru&sni=max.ru&fp=qq&pbk=o76xl9p1BsnVO5EO8GtMr9EwZEZA_hu8uLv3AXMBqwE&spx=%2F#🇷🇺 WL Антиблок 1 gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru2.hopen.online:8443?encryption=none&security=reality&type=grpc&serviceName=google.com&sni=google.com&fp=qq&pbk=c2XUJnbdqLZho8kIvzmXmGOL8jGlzXttpFidIohzzQQ&spx=%2F#🇷🇺 WL Антиблок 2 gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@ru5.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=V7Ym3ndF1pG9C5ECzTDbxT5PXyu-i2mLuYfZ0L4_yy0&spx=%2F#🇷🇺 WL Антиблок 3 Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@tr.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇹🇷 Турция Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@tr.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇹🇷 Турция gRPC
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@fi2.hopen.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnrhkgfkkpupuotntfj.svc.cdn.yandex.net&fp=chrome&pbk=P1pFPEAI0NECbfDBXB7h5JsiN2akfpQG-r0RqffZNXs&spx=%2F#🇫🇮 Финляндия Reality
-vless://d6b3057d-a9df-4082-94f5-bb19263755ee@fi2.hopen.online:2053?encryption=none&security=reality&type=grpc&serviceName=grpcservice&sni=apple.com&fp=chrome&pbk=K-pp5zkoMSrE0SUg4xz2Esz7KPrre_jCz7CmnIzE1UQ&spx=%2F#🇫🇮 Финляндия gRPC
+
+# ❌ Доступ к серверам закрыт.
+# Для продления обратитесь к администратору: @xovomk
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none#НЕРАБОЧАЯ_ССЫЛКА
